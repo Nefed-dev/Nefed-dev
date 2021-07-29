@@ -58,23 +58,29 @@ GitHub name: Nefed-dev
 ## Обзор GitHub - проектов: 
 ### CourseBot
 https://github.com/Nefed-dev/Course-Bot
+
 Основной Pet-проект. Бот-площадка для проведения курсов по математике. В данный момент прописываю Django-админку.
 
 ### TutorBot
 https://github.com/Nefed-dev/Tutor-bot
+
 Самый простой бот для сбора данных пользователей и рассылка сообщений по боту. Как таковой модернизации не подлежит, потому
 , скорее всего, сейчас в своей финальной версии
 
 ### OracleBot
 https://github.com/Nefed-dev/Oracle-Bot
+
 Бот-баловство, написанный просто ради практики. Впервые использован ORM. 
 
 ### EulerProject
 https://github.com/Nefed-dev/Euler-project
+
 Решение задачей Эйлера на языке Python, планируется начать решать задачи на JS. 
 
 ### SimpleGame
 https://github.com/Nefed-dev/SimpleGame_Ping-pong
+
 https://github.com/Nefed-dev/SimpleGame_Snake
+
 Простые игры, написанные с помощью Python. Никакой "полезной" нагрузки не несут. 
 
