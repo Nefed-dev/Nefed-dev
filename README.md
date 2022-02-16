@@ -9,7 +9,7 @@ birthday: "04.09.1995",
 
 location: {"country": Russia, "city": Moscow},
 
-phone: "+7-996-639-33-62",
+telegram: @nefedov_self,
 
 e-mail: "y.nefedov.work@gmail.com"
 
