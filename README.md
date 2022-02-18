@@ -9,7 +9,7 @@ birthday: "04.09.1995",
 
 location: {"country": Russia, "city": Moscow},
 
-telegram: @nefedov_self,
+telegram: [@nefedov_self](https://t.me/nefedov_self),
 
 e-mail: "y.nefedov.work@gmail.com",
 
