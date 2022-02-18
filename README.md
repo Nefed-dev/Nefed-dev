@@ -11,7 +11,9 @@ location: {"country": Russia, "city": Moscow},
 
 telegram: @nefedov_self,
 
-e-mail: "y.nefedov.work@gmail.com"
+e-mail: "y.nefedov.work@gmail.com",
+
+LinkedId: "www.linkedin.com/in/iuriinefedov"
 
 }
 
