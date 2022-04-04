@@ -24,12 +24,12 @@ GitHub name: Nefed-dev
 
 ## Hardskills:
 
-### Python 3.6<
-Основной язык для работы и совершенствования навыков
+### Python 3.9, 3.10
 
-- WEB: [FastAPI, Django, aiohttp, ]
+- WEB: [FastAPI, ]
+- Pydantic
 - Scrapping: [Selenium, Beautifulsoup4, ]
-- TelegramBot: [AIOgram,]
+- TelegramBot: [AIOgram, ]
 - ORM: [SQLAlchemy, ]
 
 ### DB:
@@ -42,7 +42,7 @@ GitHub name: Nefed-dev
 
 ## Environment:
 - IDE: [PyCharm Proffessional edition, VSCode]
-- OS: [MacOS, Linux (разработка по SSH), ]
+- OS: [MacOS, Linux (сервер), ]
 
 ## Goals:
 - Golang for highload web-app
