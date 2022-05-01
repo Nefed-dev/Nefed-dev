@@ -13,7 +13,7 @@ telegram: [@nefedov_self](https://t.me/nefedov_self),
 
 e-mail: "y.nefedov.work@gmail.com",
 
-LinkedId: "www.linkedin.com/in/iuriinefedov"
+LinkedIn: "www.linkedin.com/in/iuriinefedov"
 
 }
 
