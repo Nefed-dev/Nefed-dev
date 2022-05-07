@@ -73,6 +73,7 @@ GitHub name: Nefed-dev
 ## Дополнительное образование:
 - [Дальневосточный федеральный университет - Интерактивный тренажер по SQL
 ](certificates/stepik-certificate-63054-e1af23d.pdf)
+- [Stepik - Программирование на Golang](certificates/stepik-certificate-54403-ae6e225.pdf)
 
 ## Основное образование:
 
