@@ -15,6 +15,8 @@ e-mail: "y.nefedov.work@gmail.com",
 
 LinkedIn: "www.linkedin.com/in/iuriinefedov"
 
+Habr Career: "https://career.habr.com/nefed-dev"
+
 }
 
 
