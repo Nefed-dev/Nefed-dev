@@ -1,4 +1,4 @@
-## Python developer (junior)
+## Python developer
 BaseInfo: {
 
 "name": "Нефедов Юрий Андреевич",
