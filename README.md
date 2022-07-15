@@ -26,6 +26,8 @@ GitHub name: Nefed-dev
 
 CodeWars: https://www.codewars.com/users/Nefed-dev
 
+https://www.codewars.com/users/Nefed-dev/badges/micro
+
 ## Hardskills:
 
 ### Python 3.9, >3.10
