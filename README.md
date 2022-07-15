@@ -24,6 +24,8 @@ GitHub link: https://github.com/Nefed-dev
 
 GitHub name: Nefed-dev
 
+CodeWars: https://www.codewars.com/users/Nefed-dev
+
 ## Hardskills:
 
 ### Python 3.9, >3.10
