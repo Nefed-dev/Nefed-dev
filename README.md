@@ -26,7 +26,7 @@ GitHub name: Nefed-dev
 
 CodeWars: https://www.codewars.com/users/Nefed-dev
 
-https://www.codewars.com/users/Nefed-dev/badges/micro
+<img src=https://www.codewars.com/users/Nefed-dev/badges/micro>
 
 ## Hardskills:
 
